@@ -3,6 +3,8 @@
 
 ---
 
+<img width="215" height="354" alt="Capture d’écran 2026-05-02 133602" src="https://github.com/user-attachments/assets/b585f8d9-132e-4402-a288-bb213eee6101" />
+
 ## 📌 Aperçu
 
 Ce lab consiste à analyser une application Android qui cache sa logique de vérification dans une bibliothèque native compilée (`libfoo.so`). L'objectif est de retrouver le secret attendu en combinant analyse statique (JADX, Ghidra) et analyse dynamique (Frida).
